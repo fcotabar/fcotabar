@@ -9,7 +9,7 @@
     vlign="center" />
   <br/><br/>
   <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcotabar&hide=html&count_private=true&layout=compact&custom_title=My%20Most%20Used%20Languages:&theme=merko"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcotabar&hide=html&count_private=true&layout=compact&custom_title=My%20Most%20Used%20Languages:&hide_border=true&theme=merko"
       alt="Most used Languages"
       vlign="center"
       align="center" />
@@ -18,12 +18,13 @@
 <p align="center">
   <br/><br/>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=fcotabar&show_icons=true&theme=merko&hide_title=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=fcotabar&show_icons=true&hide=stars&hide_border=true&theme=merko&hide_title=true&count_private=true"
     alt="GitHub Stats"
     vlign="center"
     align="center" />
   <br/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=fcotabar&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=fcotabar&hide_border=true&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
 </p>
 
 ---
