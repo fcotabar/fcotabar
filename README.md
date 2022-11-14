@@ -15,11 +15,7 @@
       align="center" />
 </p>
   <br/><br/>
-  <br/><br/>
-  <br/><br/>
-  <br/><br/>
 <p align="center">
-  <br/><br/>
   <br/><br/>
   <img
     src="https://github-readme-stats.vercel.app/api?username=fcotabar&show_icons=true&theme=merko&hide_title=true&count_private=true"
