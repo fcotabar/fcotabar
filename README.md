@@ -1,13 +1,20 @@
-## Hey, I'm Francisco
+# Hey, I'm Francisco
 
-<img src="./src/img/profile.png" data-canonical-src="https://i.imgur.com/0CgUygU.png" alt="" width="230" align="right" vlign="center" />
-<p align="center">
- <br/><br/>
-   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcotabar&hide=html&count_private=true&layout=compact&custom_title=My%20Most%20used%20Languages:&theme=merko"
+<img
+  src="./src/img/profile.png"
+  alt="My profile avatar"
+  width="230"
+  align="left"
+  vlign="center" />
+<br/><br/>
+<img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcotabar&hide=html&count_private=true&layout=compact&custom_title=My%20Most%20Used%20Languages:&theme=merko"
     alt="Most used Languages"
     vlign="center"
-    align="center" />
+    align="right" />
+
+<p align="center">
+  <br/><br/>
   <br/><br/>
   <img
     src="https://github-readme-stats.vercel.app/api?username=fcotabar&show_icons=true&theme=merko&hide_title=true&count_private=true"
@@ -19,6 +26,8 @@
 </p>
 
 ---
+
+## My top skills list
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=git,github,js,react,jest,ts,sass,css,html,nodejs" />
