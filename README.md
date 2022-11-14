@@ -1,18 +1,19 @@
 # Hey, I'm Francisco
 
-<img
-  src="./src/img/profile.png"
-  alt="My profile avatar"
-  width="230"
-  align="left"
-  vlign="center" />
-<br/><br/>
-<img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcotabar&hide=html&count_private=true&layout=compact&custom_title=My%20Most%20Used%20Languages:&theme=merko"
-    alt="Most used Languages"
-    vlign="center"
-    align="right" />
-
+<p align="center">
+  <img
+    src="./src/img/profile.png"
+    alt="My profile avatar"
+    width="230"
+    align="left"
+    vlign="center" />
+  <br/><br/>
+  <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcotabar&hide=html&count_private=true&layout=compact&custom_title=My%20Most%20Used%20Languages:&theme=merko"
+      alt="Most used Languages"
+      vlign="center"
+      align="right" />
+</p>
 <p align="center">
   <br/><br/>
   <br/><br/>
